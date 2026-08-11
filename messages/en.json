@@ -1,0 +1,80 @@
+{
+  "now": "now",
+  "coming_soon": "coming soon",
+  "nav": {
+    "about": "About me",
+    "portfolio": "My portfolio",
+    "education": "My education",
+    "skills": "My skills",
+    "contact": "Contact",
+    "experience": "Experience",
+    "directory": "Directory"
+  },
+  "hero": {
+    "role": "Full stack software engineer",
+    "summary": "Building scalable web applications and digital experiences with passion and clean code.",
+    "hint": "Select an icon to open a window"
+  },
+  "window": {
+    "close": "Close window",
+    "minimize": "Minimize window",
+    "maximize": "Maximize window",
+    "restore": "Restore window",
+    "drag": "Drag window"
+  },
+  "about": {
+    "eyebrow": "About me",
+    "title": "Turning complex requirements into calm, useful software.",
+    "summary": "Full Stack Software Engineer with 5+ years of experience designing and developing scalable web applications and enterprise software solutions.",
+    "body": "I work across product discovery, architecture, frontend systems, backend services, and deployment. My favorite projects make complicated business workflows feel simple for the people using them.",
+    "location": "Jakarta, Indonesia",
+    "availability": "Open to meaningful product work"
+  },
+  "portfolio": {
+    "eyebrow": "Selected work",
+    "title": "A few systems I have helped bring to life.",
+    "open": "Open project",
+    "present": "Present",
+    "categories": {
+      "portofolio": "Portfolio",
+      "proyek": "Project",
+      "product": "Product"
+    }
+  },
+  "education": {
+    "eyebrow": "Education",
+    "title": "The foundation behind the practice.",
+    "polytechnic": "Politeknik Negeri Jember",
+    "polytechnicMeta": "Diploma III — Management Informatics · 2017 — 2020 · GPA 3.68",
+    "bootcamp": "Fazztrack",
+    "bootcampMeta": "Talent Full-Stack Web Developer · February — August 2021",
+    "certifications": "Certifications",
+    "certificationList": "Junior Web Development · Junior Mobile Programmer · Desktop Application Training Professional"
+  },
+  "skills": {
+    "eyebrow": "Technical toolkit",
+    "title": "The tools I reach for most.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "data": "Data & infrastructure",
+    "practice": "Engineering practice",
+    "frontendList": "React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · React Query · Redux",
+    "backendList": "Golang · Node.js · Express.js · NestJS · REST API · JWT · OAuth · Microservices",
+    "dataList": "PostgreSQL · MySQL · Redis · Docker · Docker Compose · Linux · Nginx · VPS deployment",
+    "practiceList": "Product analysis · PRD · Technical design · System architecture · Swagger/OpenAPI · Agile Scrum · OpenSpec"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s make the next useful thing.",
+    "body": "If you have a product problem that needs thoughtful engineering, I would like to hear about it.",
+    "email": "Email me",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "phone": "+62 877 6263 8070"
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "My working experience",
+    "body": "My history of works in technologies"
+  }
+}

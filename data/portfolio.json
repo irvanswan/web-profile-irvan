@@ -1,0 +1,50 @@
+[
+  {
+    "start_year": "2026",
+    "end_year": null,
+    "name": "Onness CRM SaaS Platform",
+    "description": {
+      "en": "A SaaS CRM platform for customer relationships, sales pipelines, tasks, and daily business operations. I shaped the product from requirements through production deployment.",
+      "id": "Platform CRM SaaS untuk relasi pelanggan, pipeline penjualan, tugas, dan operasional bisnis. Saya mengerjakan produk dari requirement hingga deployment produksi."
+    },
+    "category": "product",
+    "technologies": "Next.js, TypeScript, Golang, PostgreSQL, Redis, Docker",
+    "url": null
+  },
+  {
+    "start_year": "2026",
+    "end_year": null,
+    "name": "LARANTIKA CRM Platform",
+    "description": {
+      "en": "A custom CRM built around client workflows, with modules for contacts, companies, deals, tasks, products, offers, and approval workflows.",
+      "id": "CRM khusus berdasarkan workflow klien, dengan modul kontak, perusahaan, deal, tugas, produk, penawaran, dan approval workflow."
+    },
+    "category": "proyek",
+    "technologies": "Next.js, TypeScript, Golang, PostgreSQL, Redis, Docker",
+    "url": "https://larantika-crm.onness.id"
+  },
+  {
+    "start_year": "2024",
+    "end_year": "2024",
+    "name": "Company Profile Website",
+    "description": {
+      "en": "A dynamic company profile experience with MVC architecture and database-backed content management for ABM.",
+      "id": "Pengalaman company profile dinamis dengan arsitektur MVC dan manajemen konten berbasis database untuk ABM."
+    },
+    "category": "portofolio",
+    "technologies": "CodeIgniter 3, MySQL",
+    "url": "https://abm-company.co.id"
+  },
+  {
+    "start_year": "2026",
+    "end_year": "2026",
+    "name": "Landingpage onness.id",
+    "description": {
+      "en": "Web landingpage onness.id for display my bussiness web profile.",
+      "id": "Website landing page onness.id untuk menampilkan bisnis pribadi profile."
+    },
+    "category": "portofolio",
+    "technologies": "Next.js",
+    "url": "https://onness.id"
+  }
+]

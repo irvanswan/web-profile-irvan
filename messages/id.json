@@ -1,0 +1,80 @@
+{
+  "now": "sekarang",
+  "coming_soon": "akan datang",
+  "nav": {
+    "about": "Tentang saya",
+    "portfolio": "Portofolio",
+    "education": "Pendidikan",
+    "skills": "Keahlian",
+    "contact": "Kontak",
+    "experience": "Experience",
+    "directory": "Direktori"
+  },
+  "hero": {
+    "role": "Full stack software engineer",
+    "summary": "Membangun aplikasi web yang skalabel dan pengalaman digital dengan kode yang bersih.",
+    "hint": "Pilih ikon untuk membuka jendela"
+  },
+  "window": {
+    "close": "Tutup jendela",
+    "minimize": "Minimalkan jendela",
+    "maximize": "Perbesar jendela",
+    "restore": "Kembalikan jendela",
+    "drag": "Geser jendela"
+  },
+  "about": {
+    "eyebrow": "Tentang saya",
+    "title": "Mengubah kebutuhan yang kompleks menjadi software yang tenang dan berguna.",
+    "summary": "Full Stack Software Engineer dengan pengalaman lebih dari 5 tahun merancang dan mengembangkan aplikasi web skalabel serta solusi software enterprise.",
+    "body": "Saya bekerja dari discovery produk, arsitektur, sistem frontend, layanan backend, hingga deployment. Proyek favorit saya membuat alur bisnis yang rumit terasa sederhana bagi penggunanya.",
+    "location": "Jakarta, Indonesia",
+    "availability": "Terbuka untuk pekerjaan produk yang bermakna"
+  },
+  "portfolio": {
+    "eyebrow": "Karya pilihan",
+    "title": "Beberapa sistem yang pernah saya bantu wujudkan.",
+    "open": "Buka proyek",
+    "present": "Sekarang",
+    "categories": {
+      "portofolio": "Portofolio",
+      "proyek": "Proyek",
+      "product": "Produk"
+    }
+  },
+  "education": {
+    "eyebrow": "Pendidikan",
+    "title": "Fondasi di balik praktik saya.",
+    "polytechnic": "Politeknik Negeri Jember",
+    "polytechnicMeta": "Diploma III — Manajemen Informatika · 2017 — 2020 · IPK 3,68",
+    "bootcamp": "Fazztrack",
+    "bootcampMeta": "Talent Full-Stack Web Developer · Februari — Agustus 2021",
+    "certifications": "Sertifikasi",
+    "certificationList": "Junior Web Development · Junior Mobile Programmer · Desktop Application Training Professional"
+  },
+  "skills": {
+    "eyebrow": "Toolkit teknis",
+    "title": "Tools yang paling sering saya gunakan.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "data": "Data & infrastruktur",
+    "practice": "Praktik engineering",
+    "frontendList": "React.js · Next.js · TypeScript · JavaScript · Tailwind CSS · React Query · Redux",
+    "backendList": "Golang · Node.js · Express.js · NestJS · REST API · JWT · OAuth · Microservices",
+    "dataList": "PostgreSQL · MySQL · Redis · Docker · Docker Compose · Linux · Nginx · VPS deployment",
+    "practiceList": "Analisis produk · PRD · Technical design · Arsitektur sistem · Swagger/OpenAPI · Agile Scrum · OpenSpec"
+  },
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Mari membuat hal berguna berikutnya.",
+    "body": "Jika kamu punya masalah produk yang membutuhkan engineering yang matang, saya ingin mendengarnya.",
+    "email": "Kirim email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "phone": "+62 877 6263 8070"
+  },
+   "experience": {
+    "eyebrow": "Pengalaman",
+    "title": "Pengalaman pekerjaan saya",
+    "body": "Histori pekerjaan di dalam dunia teknologi"
+  }
+}

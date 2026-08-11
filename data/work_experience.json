@@ -1,0 +1,32 @@
+[
+  {
+    "company_name": "PT Phincon",
+    "description": {
+      "en": "<ul><li>Developed enterprise applications using Next.js, React.js, and backend services to support business operations.</li><li>Developed omnichannel application features using Next.js and NestJS.</li><li>Designed reusable frontend components and integrated frontend applications with REST API services.</li><li>Implemented authentication, authorization, and role-based access control.</li><li>Collaborated with product owners, backend engineers, QA, and stakeholders in Agile development processes.</li></ul>",
+      "id": "<ul><li>Mengembangkan aplikasi enterprise menggunakan Next.js, React.js, dan layanan backend untuk mendukung operasional bisnis.</li><li>Mengembangkan fitur aplikasi omnichannel menggunakan Next.js dan NestJS.</li><li>Merancang komponen frontend yang dapat digunakan kembali serta mengintegrasikan aplikasi frontend dengan layanan REST API.</li><li>Menerapkan autentikasi, otorisasi, dan kontrol akses berbasis peran.</li><li>Berkolaborasi dengan product owner, backend engineer, QA, dan stakeholder dalam proses pengembangan Agile.</li></ul>"
+    },
+    "start_year": "2023",
+    "end_year": null,
+    "position": "Full Stack Developer"
+  },
+  {
+    "company_name": "PT Chameleon",
+    "description": {
+      "en": "<ul><li>Developed company profile websites and CMS platforms for clients.</li><li>Built frontend and backend features using JavaScript.</li><li>Developed database-driven applications and CRUD modules.</li><li>Improved usability through responsive web development.</li></ul>",
+      "id": "<ul><li>Mengembangkan website company profile dan platform CMS untuk klien.</li><li>Membangun fitur frontend dan backend menggunakan JavaScript.</li><li>Mengembangkan aplikasi berbasis database dan modul CRUD.</li><li>Meningkatkan kemudahan penggunaan melalui pengembangan web responsif.</li></ul>"
+    },
+    "start_year": "2021",
+    "end_year": "2023",
+    "position": "Web Developer"
+  },
+  {
+    "company_name": "SIMS Yogyakarta",
+    "description": {
+      "en": "<ul><li>Developed web-based monitoring applications for communication tower installation projects.</li><li>Built application modules using PHP and MySQL.</li><li>Maintained and improved existing web applications.</li></ul>",
+      "id": "<ul><li>Mengembangkan aplikasi monitoring berbasis web untuk proyek instalasi menara komunikasi.</li><li>Membangun modul aplikasi menggunakan PHP dan MySQL.</li><li>Memelihara dan meningkatkan aplikasi web yang sudah ada.</li></ul>"
+    },
+    "start_year": "2018",
+    "end_year": "2019",
+    "position": "Web Developer"
+  }
+]
