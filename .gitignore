@@ -10,6 +10,5 @@ tsconfig.tsbuildinfo
 !.env.example
 
 design
-package-lock.json
 
 *.sh
